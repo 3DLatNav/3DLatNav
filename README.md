@@ -1,8 +1,8 @@
-# Part semantic aware latent space navigation for controlled regeneration of 3D point clouds
+# 3DLatNav: Navigating generative latent spaces for semantic aware 3D object manipulation
 
 * * *
 
-**This is the official code repository of the CVPR submission - Paper ID 1440**
+**This is the official code repository of the ECCV submission - Paper ID 3744**
 
 ### Abstract
 
